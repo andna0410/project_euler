@@ -13,3 +13,4 @@ get_max_prime_factors
 
 # 6857
 # 2018/04/14
+# mapらへんよくわかってない
