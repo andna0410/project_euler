@@ -40,3 +40,7 @@ def check_times_fraction(product)
 end
 
 times_fraction
+
+# 906609
+# 2018/4/28
+# 処理がくそ遅い
